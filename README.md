@@ -6,5 +6,8 @@ This is a website landing page created as a part of final excercise in the odin 
 
 Usage 
 
-This website's live preview is visible through the git Deoployements
+Click the link below to check the live preview.
+
+https://shivanerana.github.io/Odin-Landing_Page/
+
 
