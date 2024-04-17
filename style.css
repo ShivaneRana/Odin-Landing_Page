@@ -292,6 +292,9 @@ a{
     font-size: 36px;
     color: #1F2937;
     font-weight: lighter;
+    display: flex;
+    flex:1 5 auto;
+    
 }
 
 .speaker{
